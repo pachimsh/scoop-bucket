@@ -1,0 +1,22 @@
+{
+    "version": "0.1.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pachimsh/pachim-cli/releases/download/v0.1.11/pachim_windows_amd64.zip",
+            "bin": [
+                "pachim.exe"
+            ],
+            "hash": "68288367c75681a23b98851f532c079b56cac662c172cac7d111a24f8255d2b3"
+        },
+        "arm64": {
+            "url": "https://github.com/pachimsh/pachim-cli/releases/download/v0.1.11/pachim_windows_arm64.zip",
+            "bin": [
+                "pachim.exe"
+            ],
+            "hash": "10011f3d06d5a98dd14f235a47b9757c3e310508e2125370b96d655ce8d159d0"
+        }
+    },
+    "homepage": "https://pachim.sh",
+    "license": "MIT",
+    "description": "Deploy your projects to Pachim servers"
+}
