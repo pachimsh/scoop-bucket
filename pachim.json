@@ -1,19 +1,19 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pachimsh/pachim-cli/releases/download/v0.3.1/pachim_windows_amd64.zip",
+            "url": "https://github.com/pachimsh/pachim-cli/releases/download/v0.3.2/pachim_windows_amd64.zip",
             "bin": [
                 "pachim.exe"
             ],
-            "hash": "44301e85ebec1f56dd9fe758bb939052c6d46f52034b0b58620568d6884f5b67"
+            "hash": "b709cafd10fa3caa0d2352a0ac36f38bfa132811cd21a750f32a8190c40f2253"
         },
         "arm64": {
-            "url": "https://github.com/pachimsh/pachim-cli/releases/download/v0.3.1/pachim_windows_arm64.zip",
+            "url": "https://github.com/pachimsh/pachim-cli/releases/download/v0.3.2/pachim_windows_arm64.zip",
             "bin": [
                 "pachim.exe"
             ],
-            "hash": "36de9b9d6ad26b2b5e53d70aa1fbf50cb6052f717b7d906a917f9e8d93b9abb2"
+            "hash": "e0238b595168fa1989c852aa6201d772df3415b54ebf1c144e756b82bac3cf1e"
         }
     },
     "homepage": "https://pachim.sh",
